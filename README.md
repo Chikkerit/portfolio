@@ -1,9 +1,9 @@
 # portfolio
 
-# Heading 1 - Data Science CV
+# Data Science CV
 
-## Heading 2 - Work Experience
+## Work Experience
 
-### Heading 3 - Education
+## Education
 
-### Projects
+## Projects
